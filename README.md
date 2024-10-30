@@ -1,18 +1,18 @@
-### Data-Scientist-Portfolio
+# Data-Scientist-Portfolio
 ## Machine Learning Project
 
-# -logistic regression model to predict Credit risk customer
+### -logistic regression model to predict Credit risk customer
 
-# -Loan Approval Prediction
+### -Loan Approval Prediction
 
-# - Forecasting Mini-Course Sales
+### - Forecasting Mini-Course Sales
 
 ## Deep Learning Project
 
-# - 90 Animal Species Classification 
+### - 90 Animal Species Classification 
 Using Convolutional Neural Network to classifying images of animals into 90 different species. Leveraged transfer learning with the EfficientNet model as a feature extractor,
 developed and assessed the classification model, achieving a notable accuracy rate of 91%
 *Skills demonstrated: Python, Tensorflow, Jupyter Notebook, Data Visualization, Deep Learning*
 
 
-# - Natural Language Processing with Disaster Tweets 
+### - Natural Language Processing with Disaster Tweets 
