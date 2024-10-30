@@ -1,11 +1,11 @@
 ### Data-Scientist-Portfolio
 # Machine Learning Project
 
-logistic regression model to predict Credit risk customer
+- logistic regression model to predict Credit risk customer
 
-Loan Approval Prediction
+- Loan Approval Prediction
 
-Forecasting Mini-Course Sales
+- Forecasting Mini-Course Sales
 
 # Deep Learning Project
 
