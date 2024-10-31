@@ -18,8 +18,8 @@ developed and assessed the classification model, achieving a notable accuracy ra
 
 
 
-- [Natural Language Processing with Disaster Tweets]
-Built a model to predict whether tweets are related to real disasters. Implemented various NLP techniques to preprocess text data and trained a deep learning model, achieving a prediction accuracy of 0.7869. Skills demonstrated include Python, TensorFlow, NLP, Jupyter Notebook, and Deep Learning.
+- [Natural Language Processing with Disaster Tweets](Disaster_Tweets.ipynb)
+Built a model to predict whether tweets are related to real disasters. Implemented various NLP techniques to preprocess text data and trained a deep learning model, achieving a prediction accuracy of 0.7634. 
 
 ## Data Engineer Project
 
