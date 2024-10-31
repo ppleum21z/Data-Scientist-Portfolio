@@ -24,7 +24,12 @@ Built a model to predict whether tweets are related to real disasters. Implement
 ## Data Engineer Project
 
 - [Riot-API-analysis](https://github.com/ppleum21z/Riot-API-analysis)
+Extracted data from Riot Developer API and Data Dragon.
+Designed and implemented a database model, and loaded data into a MySQL server.
+Developed an interactive dashboard using Power BI to showcase key statistics and insights
 
 - [Spotify Playlist](https://github.com/ppleum21z/Spotify-Playlist)
-
+Extracted data from Spotify playlists using the Spotify API.
+Created and inserted tables into a MySQL server using Airflow to orchestrate the process.
+Automated data workflows ensuring efficient and reliable data ingestion and storage.
 
