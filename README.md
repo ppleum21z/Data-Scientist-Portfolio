@@ -21,3 +21,10 @@ developed and assessed the classification model, achieving a notable accuracy ra
 - [Natural Language Processing with Disaster Tweets]
 Built a model to predict whether tweets are related to real disasters. Implemented various NLP techniques to preprocess text data and trained a deep learning model, achieving a prediction accuracy of 0.7869. Skills demonstrated include Python, TensorFlow, NLP, Jupyter Notebook, and Deep Learning.
 
+## Data Engineer Project
+
+- [Riot-API-analysis](https://github.com/ppleum21z/Riot-API-analysis)
+
+- [Spotify Playlist](https://github.com/ppleum21z/Spotify-Playlist)
+
+
