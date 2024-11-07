@@ -10,7 +10,7 @@ Designed and implemented a predictive model for loan approval classification as 
 - [Forecasting Mini-Course Sales](forecast_minicourse_sales.ipynb)
 Conducted EDA to analyze product sales variations across different stores and countries. Implemented various time series forecasting models, including K-Nearest Neighbors, Random Forest, XGBoost, LightGBM, and deep learning models like MLP and LSTM. Evaluated model performance using the Symmetric Mean Absolute Percentage Error (SMAPE), identifying XGBoost as the top-performing model with a SMAPE of 6.89.
 
-- [Customer Segmention](customer_segmention.ipynb)
+- [Customer Segmention](Customer_Segmentation.ipynb)
 This project focuses on performing market segmentation, which is essential for businesses to better understand customer behavior and enhance marketing efficiency. The analysis involves using two clustering techniques: K-means and Hierarchical Clustering. Successfully segmented the customer base into 9 distinct groups and derived valuable insights. The findings help identify key characteristics of each segment, allowing businesses to tailor marketing strategies more effectively and optimize their overall customer engagement approach.
 
 
