@@ -37,3 +37,7 @@ Extracted data from Spotify playlists using the Spotify API.
 Created and inserted tables into a MySQL server using Airflow to orchestrate the process.
 Automated data workflows ensuring efficient and reliable data ingestion and storage.
 
+## Ai Agent Project
+- [Instacart Analytics](https://github.com/ppleum21z/Instacart-analysis)
+A comprehensive, end-to-end data project covering Data Analytics, Predictive Machine Learning, and Generative AI to extract actionable business insights from Instacart's 3 million+ grocery basket dataset.
+
